@@ -13,7 +13,7 @@ class Hello
 end
 
 # Create a new object
-h = Hello.new("ruby")
+h = Hello.new("world")
 
 # Output "Hello Ruby!"
 h.salute
