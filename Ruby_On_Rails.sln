@@ -5,6 +5,7 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{C510DC88-E651-40C5-8098-9C541C21C252}"
 	ProjectSection(SolutionItems) = preProject
+		erbdemo.rb = erbdemo.rb
 		helloworld.rb = helloworld.rb
 	EndProjectSection
 EndProject
